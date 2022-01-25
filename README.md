@@ -45,14 +45,14 @@ The balanced accuracy score is 62%. \
 The high_risk precision is about 1% only with 69% sensitivity which makes a F1 of 2%.\
 Due to the imbalanced number of the low_risk population, its precision is almost 100% with a sensitivity of 54%.
 
-#### **Balanced Random Forest Classifier**
+#### **BalancedRandomForestClassifier**
 <p align="center"> <img src='https://user-images.githubusercontent.com/90880564/150904192-4db6b157-2123-4544-a10b-6695abe7943b.png?raw=true" alt="Sublime's custom image"/> </p>
 
 The balanced accuracy score is greatly improved to 79%. \
 The high_risk precision is about 4% only with 67% sensitivity which makes a F1 of 7%.\
 Due to a lower number of false positives, its precision is almost 100% with a sensitivity of 91%.
 
-#### **Easy Ensemble AdaBoost Classifier**
+#### **EasyEnsembleClassifier**
 <p align="center"> <img src='https://user-images.githubusercontent.com/90880564/150904902-5b072f7f-ff0a-483a-a6ab-983c4751a8a3.png?raw=true" alt="Sublime's custom image"/> </p>
 
 The balanced accuracy score is very high at 93%. \
