@@ -60,7 +60,7 @@ The high_risk precision is about 7% only with 91% sensitivity which makes a F1 o
 Due to a lower number of false positives, its precision is almost 100% with a sensitivity of 94%.
 
 ## Summary:
-* All the models we used to predict the credit risk analysis show weak precision in determining if a credit risk is high.\
-* The Ensemble models show great improvment specially on the sensitivity of the high risk credits.\
-* Even though the EasyEnsembleClassifier model detects almost all high risk credit. On another hand, with a low precision, a lot of low risk credits are still falsely detected as high risk.  It may lead to the bank losing its business opportunities.\
+* All the models we used to predict the credit risk analysis show weak precision in determining if a credit risk is high.
+* The Ensemble models show great improvment specially on the sensitivity of the high risk credits.
+* Even though the EasyEnsembleClassifier model detects almost all high risk credit. On another hand, with a low precision, a lot of low risk credits are still falsely detected as high risk.  It may lead to the bank losing its business opportunities.
 * Maybe there are models the bank can use to predict credit risk other than those above.
