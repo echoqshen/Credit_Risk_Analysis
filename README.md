@@ -38,7 +38,7 @@ The balanced accuracy score is down to 52%. \
 The high_risk precision is about 1% only with 59% sensitivity which makes a F1 of 1% only.\
 Due to the imbalanced number of the low_risk population, its precision is almost 100% with a sensitivity of 46%.     
 
-#### combinatorial **SMOTEENN**
+#### **Combinatorial SMOTEENN**
 <p align="center"> <img src='https://user-images.githubusercontent.com/90880564/150903138-4d353ed2-fcbc-4512-b38e-f3fe8c413168.png?raw=true" alt="Sublime's custom image"/> </p>
 
 The balanced accuracy score is 62%. \
